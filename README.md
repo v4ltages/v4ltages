@@ -2,7 +2,7 @@
 
 > I'm a techy nerd from a country that has **stone** in the name. 🌍
 
-[GitLab](https://gitlab.com/v4ltages) / [Voltages.me](https://voltages.me) / [Buy me a coffee](https://ko-fi.com/voltages)
+[GitLab](https://gitlab.com/v4ltages) / [Voltages.me](https://voltages.me) / [Buy me a coffee](https://ko-fi.com/voltages) or support me directly through GitHub
 
 Into design, art, photography and programming too but otherwise, i find myself not interesting. 
 Also a weeb with a occasional anime binge.
