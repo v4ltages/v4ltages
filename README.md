@@ -14,7 +14,9 @@ Also a weeb with a occasional anime binge.
 - **Operating Systems:** *🐧 GNU/Linux (Debian, Ubuntu, Fedora, OpenBSD/FreeBSD, BTW ARCH), Windows, MacOS*
 - **Languages:** *.js, .sh, .html & .css*
 - **Software side:** *📦 Docker/Podman, Nginx, Node.js etc...*
-- **What i do:** *System administration, Programming, DevOps*
+- **What i do:** *IT-Specialist, System administration, Programming, DevOps.* 
+> I rent out virtual private servers and manage them myself but i mainly focus on my school work. On occasions i setup and experiment with different systems and software or just work on my projects.
+- **Editors:** *Visual Studio Code, Vim, Nano - Just use whatever gets the job done.*
 - **Learning:** *.py, .cpp*
 
 <!--
