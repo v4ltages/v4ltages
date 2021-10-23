@@ -17,7 +17,7 @@ Also a weeb with a occasional anime binge.
 - **What i do:** *IT-Specialist, System administration, Programming, DevOps.* 
 > I rent out virtual private servers and manage them myself but i mainly focus on my school work. On occasions i setup and experiment with different systems and software or just work on my projects.
 - **Editors:** *Visual Studio Code, Vim, Nano - Just use whatever gets the job done.*
-- **Learning:** *.py, .cpp*
+- **Learning:** *.js, .py, .cpp*
 
 <!--
 **v4ltages/v4ltages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
