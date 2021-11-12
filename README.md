@@ -4,6 +4,8 @@
 
 [GitLab](https://gitlab.com/v4ltages) / [Voltages.me](https://voltages.me) / [Buy me a tea](https://ko-fi.com/voltages) or support me directly through GitHub Sponsors
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/218972931701735424)](https://discord.com/users/218972931701735424)
+
 Into design, art, photography and programming too but otherwise, i find myself not interesting. 
 Also a weeb with a occasional anime binge.
 
