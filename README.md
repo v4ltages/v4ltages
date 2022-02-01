@@ -13,7 +13,7 @@ Also a weeb with a occasional anime binge.
 - [Hayase](https://hayase.voltages.me) - a Discord bot written in JavaScript using the discord.js library. Based on the character Hayase Nagatoro from the manga/anime “Please don't bully me miss Nagatoro“
 - [Akasuki](https://gitlab.com/v4ltages/anime.pics-bot) - a Discord bot written in JavaScript and using discord.js to assist you in finding inspiration from other's work on anime.pics
 ##### Knowledge
-- **Operating Systems:** *🐧 GNU/Linux (Debian, Ubuntu, Fedora, OpenBSD/FreeBSD, Arch Linux), Windows, MacOS*
+- **Operating Systems:** *🐧 GNU/Linux (Debian, Ubuntu, Fedora, Arch Linux), Windows, MacOS*
 - **Languages:** *.js, .sh, .html & .css*
 - **Software side:** *📦 Docker/Podman, Nginx, Node.js etc...*
 - **What i do:** *IT-Specialist, System administration, Programming, DevOps.* 
