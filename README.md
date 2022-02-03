@@ -4,7 +4,7 @@
 
 My know-how is in System Administration and Information Technology. As a extension, i'm a self-taught Amateur Developer.
 
-Occasionally binge on anime and manga (Meaning im a weeb), Work on software projects, Run virtual machines, Administrate my systems, Draw art and design aswell as have a tiny bit of a photography interest.
+Occasionally binge on anime and manga, Work on software projects, Run virtual machines, Administrate my systems, Draw art and design aswell as have a tiny bit of a photography interest.
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/218972931701735424)](https://discord.com/users/218972931701735424)
 
