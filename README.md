@@ -2,7 +2,7 @@
 
 [GitLab](https://gitlab.com/v4ltages) / [Voltages.me](https://voltages.me) / [Buy me a tea](https://ko-fi.com/voltages) or support me directly through GitHub Sponsors
 
-My know-how is in System Administration and Information Technology. As a extension, i'm a self-taught Amateur Developer. This website is more of what i know on the frontend side but there are parts in here that use a backend to communicate with a external data source. So my know-how also consists of how to do Frontends & Backends.
+My know-how is in System Administration and Information Technology. As a extension, i'm a self-taught Amateur Developer.
 
 Occasionally binge on anime and manga (Meaning im a weeb), Work on software projects, Run virtual machines, Administrate my systems, Draw art and design aswell as have a tiny bit of a photography interest.
 
