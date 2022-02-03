@@ -1,25 +1,18 @@
-### Bleh, hello 👋🏻
-
-> I'm a techy nerd from a country that has **stone** in the name. 🌍
+### Hey 👋🏻
 
 [GitLab](https://gitlab.com/v4ltages) / [Voltages.me](https://voltages.me) / [Buy me a tea](https://ko-fi.com/voltages) or support me directly through GitHub Sponsors
 
+My know-how is in System Administration and Information Technology. As a extension, i'm a self-taught Amateur Developer. This website is more of what i know on the frontend side but there are parts in here that use a backend to communicate with a external data source. So my know-how also consists of how to do Frontends & Backends.
+
+Occasionally binge on anime and manga (Meaning im a weeb), Work on software projects, Run virtual machines, Administrate my systems, Draw art and design aswell as have a tiny bit of a photography interest.
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/218972931701735424)](https://discord.com/users/218972931701735424)
 
-Into design, art, photography and programming too but otherwise, i find myself not interesting. 
-Also a weeb with a occasional anime binge.
-
-##### I’m currently working on ...
-- [Hayase](https://hayase.voltages.me) - a Discord bot written in JavaScript using the discord.js library. Based on the character Hayase Nagatoro from the manga/anime “Please don't bully me miss Nagatoro“
-- [Akasuki](https://gitlab.com/v4ltages/anime.pics-bot) - a Discord bot written in JavaScript and using discord.js to assist you in finding inspiration from other's work on anime.pics
-##### Knowledge
-- **Operating Systems:** *🐧 GNU/Linux (Debian, Ubuntu, Fedora, Arch Linux), Windows, MacOS*
-- **Languages:** *.js, .sh, .html & .css*
-- **Software side:** *📦 Docker/Podman, Nginx, Node.js etc...*
-- **What i do:** *IT-Specialist, System administration, Programming, DevOps.* 
-> I rent out virtual private servers and manage them myself but i mainly focus on my school work. On occasions i setup and experiment with different systems and software or just work on my projects.
-- **Editors:** *Visual Studio Code, Vim, Nano - Just use whatever gets the job done.*
-- **Learning:** *.js, .py, .cpp*
+##### Know-how
+- **Operating Systems:** *🐧 GNU/Linux (Debian, Ubuntu, Arch Linux), Windows, MacOS*
+- **Languages:** *JavaScript*
+- **Tools and software:** *Docker, Nginx, Node.js, Yarn, NPM, HTML, CSS, Tailwind CSS and some more...*
+- **Learning:** *JavaScript, Ansible, Web Development, Programming, Next.js, React.js*
 
 <!--
 **v4ltages/v4ltages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
