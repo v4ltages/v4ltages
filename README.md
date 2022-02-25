@@ -9,9 +9,10 @@ Occasionally binge on anime and manga, Work on software projects, Run virtual ma
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/218972931701735424)](https://discord.com/users/218972931701735424)
 
 ##### Know-how
-- **Operating Systems:** *🐧 GNU/Linux (Debian, Ubuntu, Arch Linux), Windows, MacOS*
+- **Operating Systems:** *🐧 GNU/Linux (Debian, Ubuntu, Arch Linux, OpenSUSE, Fedora), MacOS, Windows*
 - **Languages:** *JavaScript*
 - **Tools and software:** *Docker, Nginx, Node.js, Yarn, NPM, HTML, CSS, Tailwind CSS and some more...*
+- **Information Technology:** *System Administration, Computer Networking, Automation / Scripting, Networking Hardware, Application Software*
 - **Learning:** *JavaScript, Ansible, Web Development, Programming, Next.js, React.js*
 
 ![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fv4ltages&label=visits&bgRight=ddb6f2)
