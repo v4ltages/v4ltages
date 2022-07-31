@@ -2,14 +2,14 @@
 
 [GitLab](https://gitlab.com/v4ltages) / [Voltages.me](https://voltages.me) / [Buy me a tea](https://ko-fi.com/voltages) or support me directly through GitHub Sponsors
 
-My know-how is in System Administration and Information Technology. As a extension, i'm a self-taught Amateur Developer.
+Graduated as a Junior IT-Specialist in 2021 and currently enrolled at a university to continue my studies into information technology. Tinkering & playing around with server's and software.
 
-Occasionally binge on anime and manga, Work on software projects, Run virtual machines, Administrate my systems, Draw art and design aswell as have a tiny bit of a photography interest.
+Occasionally might be a otaku, Try to create things, Run virtual machines, Administrate, Draw art and design aswell as have a tiny bit of a photography interest. Oh, i like tea, coffee and listen to alot of music on repeat.
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/218972931701735424)](https://discord.com/users/218972931701735424)
 
 ##### Know-how
-- **Operating Systems:** *🐧 GNU/Linux (Debian, Ubuntu, Arch Linux, OpenSUSE, Fedora), MacOS, Windows*
+- **Operating Systems:** *🐧 GNU/Linux (Debian, Ubuntu, Arch Linux), MacOS, Windows*
 - **Languages:** *JavaScript*
 - **Tools and software:** *Docker, Nginx, Node.js, Yarn, NPM, HTML, CSS, Tailwind CSS and some more...*
 - **Information Technology:** *System Administration, Computer Networking, Automation / Scripting, Networking Hardware, Application Software*
