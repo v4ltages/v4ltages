@@ -10,10 +10,9 @@ Occasionally might be a otaku, Try to create things, Run virtual machines, Admin
 
 ##### Know-how
 - **Operating Systems:** *🐧 GNU/Linux (Debian, Ubuntu, Arch Linux), MacOS, Windows*
-- **Languages:** *JavaScript*
-- **Tools and software:** *Docker, Nginx, Node.js, Yarn, NPM, HTML, CSS, Tailwind CSS and some more...*
-- **Information Technology:** *System Administration, Computer Networking, Automation / Scripting, Networking Hardware, Application Software*
-- **Learning:** *JavaScript, Ansible, Web Development, Programming, Next.js, React.js*
+- **Languages:** *JavaScript, HTML, CSS*
+- **Tools and software:** *Docker, Nginx, Node.js, Tailwind CSS, React and some more...*
+- **Learning:** *JavaScript, Ansible, Web Development, Programming, Next.js, React, 3D modeling, making art.*
 
 ![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fv4ltages&label=visits&bgRight=ddb6f2)
 <!--
