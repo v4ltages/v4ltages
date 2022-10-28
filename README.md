@@ -14,7 +14,6 @@ Occasionally might be a otaku, Try to create things, Run virtual machines, Admin
 - **Tools and software:** *Docker, Nginx, Node.js, Tailwind CSS, React and some more...*
 - **Learning:** *JavaScript, Ansible, Web Development, Programming, Next.js, React, 3D modeling, making art.*
 
-![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fv4ltages&label=visits&bgRight=ddb6f2)
 <!--
 **v4ltages/v4ltages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
