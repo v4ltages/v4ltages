@@ -6,7 +6,7 @@ Graduated as a Junior IT-Specialist in 2021 and currently enrolled at a universi
 
 Occasionally might be a otaku, Try to create things, Run virtual machines, Administrate, Draw art and design aswell as have a tiny bit of a photography interest. Oh, i like tea, coffee and listen to alot of music on repeat.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/218972931701735424)](https://discord.com/users/218972931701735424)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/218972931701735424?hideDiscrim=true&)](https://discord.com/users/218972931701735424)
 
 ##### Know-how
 - **Operating Systems:** *🐧 GNU/Linux (Debian, Ubuntu, Arch Linux), MacOS, Windows*
