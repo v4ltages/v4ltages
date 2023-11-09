@@ -2,17 +2,17 @@
 
 [GitLab](https://gitlab.com/v4ltages) / [Voltages.me](https://voltages.me) / [Buy me a tea](https://ko-fi.com/voltages) or support me directly through GitHub Sponsors
 
-Graduated as a Junior IT-Specialist in 2021 and currently enrolled at a university to continue my studies into information technology. Tinkering & playing around with server's and software.
+Junior IT-Specialist. Currently enrolled at a university to continue my studies into information technology. Tinkering around with server's and software.
 
-Occasionally might be a otaku, Try to create things, Run virtual machines, Administrate, Draw art and design aswell as have a tiny bit of a photography interest. Oh, i like tea, coffee and listen to alot of music on repeat.
+Might be a otaku, Try to create things, Run virtual machines, Administrate, Draw art and design aswell as have a tiny bit of a photography interest. Oh, i like tea, coffee and listen to alot of music on repeat.
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/218972931701735424?hideDiscrim=true&)](https://discord.com/users/218972931701735424)
 
 ##### Know-how
-- **Operating Systems:** *🐧 GNU/Linux (Debian, Ubuntu, Arch Linux), MacOS, Windows*
-- **Languages:** *JavaScript, HTML, CSS*
-- **Tools and software:** *Docker, Nginx, Node.js, Tailwind CSS, React and some more...*
-- **Learning:** *JavaScript, Ansible, Web Development, Programming, Next.js, React, 3D modeling, making art.*
+- **Operating Systems:** *🐧 GNU/Linux (Ubuntu, Arch Linux), MacOS, Windows*
+- **Languages:** *JavaScript, HTML & CSS, Python*
+- **Tools and software:** *Docker, Nginx, Node.js, React and some more...*
+- **Learning:** *JavaScript, Database orchestration, Ansible, Web Development, Next.js, React*
 
 <!--
 **v4ltages/v4ltages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
