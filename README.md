@@ -4,7 +4,7 @@
 
 Junior IT-Specialist. Currently enrolled at a university to continue my studies into information technology. Tinkering around with server's and software.
 
-Might be a otaku, Try to create things, Run virtual machines, Administrate, Draw art and design aswell as have a tiny bit of a photography interest. Oh, i like tea, coffee and listen to alot of music on repeat.
+Might be a otaku, Try to create things, Run virtual machines, Administrate, Design aswell as have a bit of a photography interest. Tea, Coffee and sleepless nights.
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/218972931701735424?hideDiscrim=true&)](https://discord.com/users/218972931701735424)
 
