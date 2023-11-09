@@ -12,7 +12,7 @@ Might be a otaku, Try to create things, Run virtual machines, Administrate, Desi
 - **Operating Systems:** *🐧 GNU/Linux (Ubuntu, Arch Linux), MacOS, Windows*
 - **Languages:** *JavaScript, HTML & CSS, Python*
 - **Tools and software:** *Docker, Nginx, Node.js, React and likely more tools...*
-- **Learning:** *JavaScript, Database orchestration, Ansible, Web Development, Next.js, React*
+- **Learning:** *JavaScript, Database orchestration, Ansible, Web development, Next.js, React*
 
 <!--
 **v4ltages/v4ltages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
