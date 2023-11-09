@@ -9,7 +9,7 @@ Might be a otaku, Try to create things, Run virtual machines, Administrate, Desi
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/218972931701735424?hideDiscrim=true&)](https://discord.com/users/218972931701735424)
 
 ##### Know-how
-- **Operating Systems:** *🐧 GNU/Linux (Ubuntu, Arch Linux), MacOS, Windows*
+- **Operating Systems:** *(Ubuntu, Arch Linux), MacOS, Windows*
 - **Languages:** *JavaScript, HTML & CSS, Python*
 - **Tools and software:** *Docker, Nginx, Node.js, React and likely more tools...*
 - **Learning:** *JavaScript, Database orchestration, Ansible, Web development, Next.js, React*
