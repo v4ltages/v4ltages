@@ -11,7 +11,7 @@ Might be a otaku, Try to create things, Run virtual machines, Administrate, Desi
 ##### Know-how
 - **Operating Systems:** *🐧 GNU/Linux (Ubuntu, Arch Linux), MacOS, Windows*
 - **Languages:** *JavaScript, HTML & CSS, Python*
-- **Tools and software:** *Docker, Nginx, Node.js, React and some more...*
+- **Tools and software:** *Docker, Nginx, Node.js, React and likely more tools...*
 - **Learning:** *JavaScript, Database orchestration, Ansible, Web Development, Next.js, React*
 
 <!--
