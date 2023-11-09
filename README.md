@@ -1,8 +1,8 @@
 ### Hey 👋🏻
 
-[GitLab](https://gitlab.com/v4ltages) / [Voltages.me](https://voltages.me) / [Buy me a tea](https://ko-fi.com/voltages) or support me directly through GitHub Sponsors
+[GitLab](https://gitlab.com/v4ltages) / [voltag.es](https://voltag.es) / [Buy me a tea](https://ko-fi.com/voltages) or support me directly through [GitHub Sponsors](https://github.com/sponsors/v4ltages)
 
-Junior IT-Specialist. Currently enrolled at a university to continue my studies into information technology. Tinkering around with server's and software.
+Junior IT-Specialist. Currently enrolled at TalTech to continue my studies into information technology. Tinkering around with server's and software.
 
 Might be a otaku, Try to create things, Run virtual machines, Administrate, Design aswell as have a bit of a photography interest. Tea, Coffee and sleepless nights.
 
